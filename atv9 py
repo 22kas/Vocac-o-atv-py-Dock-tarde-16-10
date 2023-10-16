@@ -1,0 +1,2 @@
+num_fav = int(input("qual seu numero favorito?"))
+print(f"o seu numero favorito seria {num_fav}?")
